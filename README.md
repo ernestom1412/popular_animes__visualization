@@ -8,3 +8,5 @@ You will find the .csv file that was used for the graphs and previously produced
 
 Bonus: The only anime in the music category is Porter Robinson's Shelter which you can find here -> https://youtu.be/fzQ6gRAEoy0 
 Beware, 90% of cry rate after watching the full video
+
+This proyect was made by Ernesto Moreno for the Data Visualization Proyect in Ironhack
